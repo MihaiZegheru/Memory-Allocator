@@ -185,7 +185,7 @@ tests
 .checkpatch.conf
 .gitlab-ci.yml
 .pylintrc
-.shellcheckr
+.shellcheckrc
 CPPLINT.cfg
 Dockerfile
 local.sh
