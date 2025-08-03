@@ -177,16 +177,18 @@ lerna-debug.log
 .DS_Store
 Thumbs.db
 
-# Homework files
+# VSCode
 .vscode
-checker
-img
-tests
+
+# Checker
 .checkpatch.conf
 .gitlab-ci.yml
 .pylintrc
 .shellcheckrc
 CPPLINT.cfg
 Dockerfile
-local.sh
 README.checker.md
+checker/
+img/
+local.sh
+tests/
